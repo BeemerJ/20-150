@@ -72,3 +72,27 @@ Combat actions are announced before resolution (e.g., "Spider advances forward, 
   - Double Strike
   - Life Leech
   - Disposable consumables may be bought for more properties
+
+## Angel Encounters
+
+Angels represent a unique and terrifying type of combat encounter that fundamentally alters the game's reality. These beings are actually humans from previous cycles who achieved godhood, manifesting as incomprehensible multi-dimensional entities, only fractionally seen by the players comprehension.
+
+### Angel Properties
+- Appear only at sync points (dimensional crossover locations)
+- Manifest as abstract emotional concepts (terror, fear, lust, etc.)
+- Visible only as fragments or impossible geometries (Multidimensional abstracts visible in 3D space to you and your senses)
+- Cannot be conventionally observed or measured
+
+### Combat Impact
+When an Angel is defeated:
+- The entire timeline is wiped and branches into a new path
+- Player retains memories of the previous timeline
+- World reconstructs itself in subtly different ways
+- No physical trace of the Angel remains
+
+### Encounter Mechanics
+- Angels only appear in specific sync points
+- Each encounter is unique and cannot be repeated in the same way
+- Victory or defeat has cosmic implications for the game world
+- For the most part, impossible to kill. Just survive as you are far too under developed.
+- Angels are randomly generated with stats, visual representation, and comprehension in general.
