@@ -3,9 +3,8 @@
 ## Visual Style
 
 ### Display Settings
-- Resolution: 16:9 at 480p borderless
+- Resolution: 16:9 at ~600 / 480p borderless
 - Scaling options:
-  - Nearest neighbor
   - Sharp bilinear scaling
   - Custom LCD filter option
 

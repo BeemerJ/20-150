@@ -61,9 +61,11 @@
   - Endurance and damage taken
   - Has multiple thresholds for effects
 - Can consume rancid food with debuff risks
+- Gives incorrect danger warnings
 
 ### Thirst System
 - Affects:
   - Attack damage
   - Hit chance
 - Can drink contaminated water with debuff risks
+- Gives incorrect danger warnings
