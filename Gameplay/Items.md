@@ -18,6 +18,25 @@
 - Special attack properties
 
 ## Equipment Properties
+### Stackable Passive Items
+- Players can collect passive items that stack infinitely (or with soft diminishing returns)
+- Each stack provides cumulative effects, enabling powerful synergies
+- Some items interact with specific gear or stats to unlock unique abilities or archetypes
+
+### Dual-Property Items
+- Most items provide both a benefit and a drawback (e.g., +attack speed, -defense)
+- Tradeoffs encourage strategic build choices and risk/reward decisions
+
+### Emergent Build System
+- No fixed classes; player identity emerges from item and gear synergies
+- Certain item combinations unlock new abilities or synergy tiers (e.g., stacking "Flame Essence" with "Mage Robes" unlocks fire-based effects)
+- Build diversity is encouraged through item interactions and stacking
+
+### Rarity and Scaling
+- Items have rarities that affect their power and stackability
+- Common items stack easily, rare items provide unique effects but may have stacking limits or stronger drawbacks
+- Difficulty is location-based, not level-scaled, but item stacking can help overcome tougher areas
+
 ### Rarity System
 - Affects item value
 - Influences special properties

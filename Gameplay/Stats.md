@@ -43,6 +43,17 @@
   - Rolled HP increase
   - Set amount of stat points
 
+### Trait System
+- Inspired by Risk of Rain's hybrid progression: RPG stats with item stacking and tradeoffs
+- Traits can come from items and gear, further customizing builds
+  - Leveling up can grant both positive and negative traits
+  - For example, a "Walking Tank" trait might reduce movement speed but increase defense and scales between equipment / level.  
+  - Walking Tank Example (From a unique Helmet): 
+
+    > `Armour = Base Armour Value + (Level x 1.5) + Count.Obsidian Powder [Stackable Item that gives a +1% chance to block physical damage not including critical hits]`
+
+    > `Movement Speed = Base Movement Speed - (Level x 1.3) - (Count.Obsidian Powder)`
+
 ### Perk System
 - Perks can be chosen after resting at an inn
 - Requirements must be met for perks to appear

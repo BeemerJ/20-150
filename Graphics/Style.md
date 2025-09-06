@@ -24,3 +24,5 @@
 - Screen effects:
   - Screen CRT Effect
   - Custom scaling filters
+- Menus are styled after PC terminals, inspired by Fallout
+  - Navigation via command input, arrow keys, Enter, or mouse clicks

@@ -28,6 +28,11 @@
 - Stealth and awareness mechanics
 - Opportunity for preemptive actions
 
+## Unique Encounters
+
+- Some powerful enemies may be viably killable only with enough rare components, such as machine roamer parts
+- Some types of enemies may take damage only from specific damage types or weapons or take more damage from specific damage types or weapons and traits
+
 ## Survival Elements
 ### Environment Effects
 - Various terrain types (Caves, Mines etc.)
